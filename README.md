@@ -7,4 +7,4 @@ Additionally, it is able to do bulk reputation checks (IP, File hash, URL, domai
 # **Usage**
 pip install -r requirements.txt
 
-pyhton3 ./Rep-hunter.py
+pyhton3 ./Rep-Hunter.py
